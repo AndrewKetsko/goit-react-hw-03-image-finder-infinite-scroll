@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/goit-react-hw-03-image-finder-infinite-scroll/static/css/main.f04d742a.css",
-    "main.js": "/goit-react-hw-03-image-finder-infinite-scroll/static/js/main.3e5d5df1.js",
+    "main.js": "/goit-react-hw-03-image-finder-infinite-scroll/static/js/main.b028c4c6.js",
     "index.html": "/goit-react-hw-03-image-finder-infinite-scroll/index.html",
     "main.f04d742a.css.map": "/goit-react-hw-03-image-finder-infinite-scroll/static/css/main.f04d742a.css.map",
-    "main.3e5d5df1.js.map": "/goit-react-hw-03-image-finder-infinite-scroll/static/js/main.3e5d5df1.js.map"
+    "main.b028c4c6.js.map": "/goit-react-hw-03-image-finder-infinite-scroll/static/js/main.b028c4c6.js.map"
   },
   "entrypoints": [
     "static/css/main.f04d742a.css",
-    "static/js/main.3e5d5df1.js"
+    "static/js/main.b028c4c6.js"
   ]
 }
