@@ -8,6 +8,6 @@ export const refs = {
     orientation: 'horizontal',
     safesearch: true,
     // page: 1,
-    per_page: 12,
+    per_page: 24,
   },
 };
